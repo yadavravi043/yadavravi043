@@ -1,6 +1,7 @@
 ![logo](https://github.com/yadavravi043/yadavravi043/blob/main/DSC_2618.JPG)
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<img align="right" width="400" src=" https://pixabay.com/photos/mug-motivation-dream-dreams-coffee-3403963/"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavravi043&label=Profile%20views&color=0e75b6&style=flat" alt="yadavravi043" /> </p>
 
