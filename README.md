@@ -12,7 +12,6 @@
 - 📫 How to reach me **yadavravi000043@gmail.com**
 -portfolio: https://ravisreactportfolio.netlify.app
 
-- ⚡ Fun fact **i am moody**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
